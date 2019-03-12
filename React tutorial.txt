@@ -1,0 +1,9 @@
+﻿Get Start > https://medium.com/chunza2542/จะเริ่มเขียน-react-ต้องรู้อะไรบ้างฉบับคนกาก-2017-cdcce888a21f
+Step create > https://github.com/facebook/create-react-app#creating-an-app
+
+(Edit code > npm run build > serve -s build > Open address in brownser)
+
+Tic Tac Toe example > https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial
+...............................................
+Website:
+Header from > https://github.com/drminnaar/react-movie-cards/tree/master/src/components
