@@ -8,4 +8,5 @@ Tic Tac Toe example > https://reactjs.org/tutorial/tutorial.html#setup-for-the-t
 Website:
 Header from > https://github.com/drminnaar/react-movie-cards/tree/master/src/components
 ...............................................
-Build to mobild application > https://facebook.github.io/react-native/docs/getting-started
+Build to mobild application (use Expo-cli) > https://github.com/react-community/create-react-native-app
+                              https://facebook.github.io/react-native/docs/getting-started
