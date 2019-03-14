@@ -13,3 +13,19 @@ Build to mobild application (use Expo-cli) > https://github.com/react-community/
 Expo-cli account:
 username: phornthip
 password: Together
+
+
+
+
+
+
+
+
+
+
+
+
+...............................................
+Solved problems:
+
+SHA-1 .../AppEntry.js is not computed > https://stackoverflow.com/questions/51826728/react-native-bundle-sha-1-for-file-not-computedunable-to-load-script-from-asset
