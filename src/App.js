@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.png';
 import Header from './Header';
+import Products from './Product/Products';
 import './App.css';
 
 class App extends Component {
@@ -22,6 +23,7 @@ class App extends Component {
         <div className="main-topic">{this.state.main}</div>
         <div className="main-desc">{this.state.description}</div>
         </div>
+        <Products />
       </div>
     );
   }
