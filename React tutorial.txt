@@ -20,6 +20,9 @@ https://medium.com/@sirawit/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-cross-
 ReactXP -> git clone https://github.com/microsoft/reactxp
 ...............................................
 
+Firebase: Deploy online to be a website -> https://devahoy.com/posts/how-to-deploy-react-app-with-firebase-hosting/
+...............................................
+
 
 
 
