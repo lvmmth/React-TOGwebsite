@@ -21,6 +21,15 @@ ReactXP -> git clone https://github.com/microsoft/reactxp
 ...............................................
 
 Firebase: Deploy online to be a website -> https://devahoy.com/posts/how-to-deploy-react-app-with-firebase-hosting/
+> yarn build : ตัว Create React App ก็จะ generate folder ชื่อว่า build ให้เรานั่นเอง ซึ่งใน build เนียแหละ มันก็คือไฟล์เว็บไซต์ของเราที่เขียนด้วย React สิ่งที่เราจะทำต่อมาคือ อัพเจ้า build ไปไว้ที่ Hosting
+> npm install -g firebase-tools
+> firebase login > Allow
+> firebase init > ให้เราเลื่อนไปที่ Hosting และกด spacebar เพื่อเลือก (สังเกตปุ่มกลมๆขาวๆ) จากนั้นกด Enter
+> What do you want to use as your public directory? พิมพ์เป็น build เพราะว่า yarn build มันจะ build static ไปที่โฟลเดอร์ build (default กรณีไม่เปลี่ยนคือ public)
+> Configure as single-page app? N : ไม่ต้องให้มันเขียนทับไฟล์ที่มีอยู่แล้ว
+> firebase use --add (ต้องสร้าง firebase project รอไว้ก่อนแล้ว)
+> firebase deploy
+link เวปที่ได้ https://xxxxx-xxxx.firebaseapp.com
 ...............................................
 
 
